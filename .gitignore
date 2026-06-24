@@ -1,0 +1,32 @@
+# ============================================
+# SEP STUDIO - Docker Ignore File
+# ============================================
+
+# Git files
+.git
+.gitignore
+.gitattributes
+
+# Documentation
+README.md
+*.md
+
+# Local development files
+.vscode
+.idea
+*.swp
+*.swo
+
+# Node modules (built in container)
+node_modules
+npm-debug.log
+package-lock.json
+
+# Environment files
+.env
+.env.*
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
