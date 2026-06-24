@@ -43,7 +43,7 @@ After deployment, go to Environment tab and set:
 · Any other API keys
 
 
-
+https://stats.uptimerobot.com/LQP8BVy3Bc
 ---
 
 SEP STUDIO — Masked. Stacked. Ready.
