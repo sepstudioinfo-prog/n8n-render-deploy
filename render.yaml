@@ -34,9 +34,9 @@ services:
       # URL CONFIGURATION
       # ============================================
       - key: N8N_EXTERNAL_URL
-        value: https://sepstudio-n8n.onrender.com
+        value: https://sep-studio-n8n.onrender.com
       - key: WEBHOOK_URL
-        value: https://sepstudio-n8n.onrender.com
+        value: https://sep-studio-n8n.onrender.com
       
       # ============================================
       # PERSISTENCE - SQLite
